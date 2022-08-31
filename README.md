@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm styding to be a frontend developer
+![image](https://user-images.githubusercontent.com/71925953/187624741-583c1613-49fe-49c4-adf2-47eae2a0c562.png)
 
 <!--
 **saliamanovich/saliamanovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
